@@ -9,7 +9,7 @@ const IranMap: React.FC<IranMapWrapperProps> = ({
   width,
   colorRange,
   defaultSelectedProvince,
-  textColor = '#000',
+  textColor = '#fff',
   deactiveProvinceColor = '#e6e6e6',
   selectedProvinceColor,
   tooltipTitle = '',
